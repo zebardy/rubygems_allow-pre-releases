@@ -6,4 +6,4 @@ rubygems_allow-pre-releases
 [![Gem Version](https://badge.fury.io/rb/rubygems_allow-pre-releases.png)](http://badge.fury.io/rb/rubygems_allow-pre-releases)
 [![Code Climate](https://codeclimate.com/github/zebardy/rubygems_allow-pre-releases.png)](https://codeclimate.com/github/zebardy/rubygems_allow-pre-releases)
 
-Enable pre release version strings for older versions of ruby gems
+Enable pre release version strings for older versions of ruby gems.
